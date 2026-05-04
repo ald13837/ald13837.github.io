@@ -1,5 +1,3 @@
-# Aubrey David
-
 ![Profile Photo](AubreyD-1.jpg)
 
 ### Professional Summary
