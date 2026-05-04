@@ -1,7 +1,7 @@
 ![Profile Photo](AubreyD-1.jpg)
 
 ### Professional Summary
-I am a Computer Systems Engineering student at the University of Georgia with a deep interest in cybersecurity and low-level system design. My technical expertise spans from developing complex logic designs in Verilog to implementing secure mobile and hardware integrations. I thrive at the intersection of hardware and software, with a proven ability to lead technical teams through the full development lifecycle, from initial architectural brainstorming to final system testing. I am currently looking for opportunities to apply my skills in secure system architecture and binary exploitation to solve real-world security challenges.
+My name is Aubrey David, and I am a graduating Computer Systems Engineering student at the University of Georgia with a deep interest in cybersecurity and low-level system design. My technical expertise spans from developing complex logic designs in Verilog to implementing secure mobile and hardware integrations. I thrive at the intersection of hardware and software, with a proven ability to lead technical teams through the full development lifecycle, from initial architectural brainstorming to final system testing. I am currently looking for opportunities to apply my skills in secure system architecture and binary exploitation to solve real-world security challenges.
 
 ### Essential Links
 * [View My Resume](resume.pdf)
